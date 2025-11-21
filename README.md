@@ -60,8 +60,14 @@ My journey through programming languages led me to **JavaScript** and frontend d
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PFilippov1&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PFilippov1&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PFilippov1&layout=compact&hide_border=true" height="140">
+<img src="https://github-readme-stats.vercel.app/api?username=PFilippov1&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&line_height=18" height="140">
+<img src="https://streak-stats.demolab.com/?user=PFilippov1&hide_border=true&card_width=250" height="140">
+
+</div>
+
 
 ---
 
